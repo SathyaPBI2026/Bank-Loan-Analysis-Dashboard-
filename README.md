@@ -6,6 +6,7 @@ The Bank Loan Analysis Dashboard is an interactive Power BI project developed to
 This project demonstrates end-to-end Business Intelligence skills, including data cleaning, data modeling, DAX calculations, KPI development, and interactive dashboard design using Power BI.
 
 ## Dataset
+<a hrefhttps://github.com/SathyaPBI2026/Bank-Loan-Analysis-Dashboard-/blob/main/Financial_loan_data.xlsx>Dataset</a>
 
 ## Objectives
 •	Analyze overall loan application trends.
