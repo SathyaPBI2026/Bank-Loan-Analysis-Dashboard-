@@ -38,6 +38,9 @@ This project demonstrates end-to-end Business Intelligence skills, including dat
 •	Charged-Off Loans
 
 ## Dashboard
+<img width="914" height="499" alt="finance summary" src="https://github.com/user-attachments/assets/98444083-a92f-46f9-b6ea-2bc53a749ed1" />
+<img width="906" height="501" alt="finance overview" src="https://github.com/user-attachments/assets/c2e9a274-82be-4c0c-995f-c9e8c9b23d64" />
+<img width="901" height="495" alt="finance details" src="https://github.com/user-attachments/assets/db4b8261-df50-439d-86d9-0c327f5d6fa2" />
 
 ## Dashboard Features
 •	Executive KPI Cards
